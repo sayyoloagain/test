@@ -1,3 +1,10 @@
+.Navbar {
+  background-color: #faaa5e;
+  padding: 15px;
+  right: auto;
+}
+
+
 .App {
   text-align: center;
 }
@@ -14,7 +21,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: white;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
